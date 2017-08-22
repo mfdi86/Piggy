@@ -1,5 +1,5 @@
 # Piggy
-Design Week 3 Independent Project- Invision Mobile App Prototype- Design a budgeting app for kids. 
+Design Week 3 Independent Project- Invision Mobile App Prototype- Design a budgeting app for kids. View my project prototype here: https://invis.io/37D435IPK
 
 <img width="337" alt="loadpage" src="https://user-images.githubusercontent.com/27661208/29548169-b38ae540-86b3-11e7-899a-8560834a5384.png">
 
